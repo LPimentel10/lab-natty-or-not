@@ -24,15 +24,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+O projeto consiste em um vídeo completamente criado em IA Generativa, sendo o roteiro criado pelo Chat GPT e o vídeo criado no Fliki.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, Runway e Fliki
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Primeiramente, criei um roteiro de vídeo no Chat Gpt, depois criei imagens relacionadas ao assunto no Runway e inseri no vídeo criado no Fliki.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+O resultado foi um vídeo de 02:14 minutos, falando sobre IA Generativa, com a voz sendo completamente criada por IA. 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
